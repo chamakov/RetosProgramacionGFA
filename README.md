@@ -26,18 +26,30 @@ Via Pull Request en Github, para más información acerca de como crear un pull 
 https://help.github.com/articles/creating-a-pull-request/
 
 **Pasos para integrar el ejercicio:**
-1. Crear un nuevo branch en el repositorio
-    -Dar click en el boton Branch: master
-    -Comenzar a escribir el nombre del nuevo branch a agregar usando la siguiente nomenclatura: primer letra del primer nombre + primer apellido ejemplo: jortega.
-    -Una vez escrito el nombre aparecerá un botón indicando la creación del branch, es necesario dar click en el para generarlo
-    -Una vez generado el branch, es necesario crear un nuevo archivo, para esto es necesario dar click en el botón "Create new File" para crear un readme con la información del participante
-    -Es necesario indicar el nombre del archivo de la siguiente manera: RetosProgramacionGFA/primer letra del primer nombre + primer apellido/readme.md
-    -Una vez indicado el nombre, es necesario colocar en el archivo los siguientes datos:
-        -Nombre completo del participante
-        -Coordinación a la que pertenece.
-    -Ya que se haya llenado el archivo con la información requerida, solamente es necesario dar click en el boton "Commit new file" localizado al final de la página.
-2. Subir el código fuente generado
+1.Crear un nuevo branch en el repositorio
+
+   -Dar click en el boton Branch: master
+   
+   -Comenzar a escribir el nombre del nuevo branch a agregar usando la siguiente nomenclatura: primer letra del primer nombre + primer apellido ejemplo: jortega.
+   
+   -Una vez escrito el nombre aparecerá un botón indicando la creación del branch, es necesario dar click en el para generarlo
+   
+   -Una vez generado el branch, es necesario crear un nuevo archivo, para esto es necesario dar click en el botón "Create new File" para crear un readme con la información del participante
+   
+   -Es necesario indicar el nombre del archivo de la siguiente manera: RetosProgramacionGFA/primer letra del primer nombre + primer apellido/readme.md
+   
+   -Una vez indicado el nombre, es necesario colocar en el archivo los siguientes datos:
+   
+      -Nombre completo del participante
+      -Coordinación a la que pertenece.
+      
+   -Ya que se haya llenado el archivo con la información requerida, solamente es necesario dar click en el boton "Commit new file" localizado al final de la página.
+   
+2.Subir el código fuente generado
     -Primeramente es necesario estar localizados en el branch que se genero en el punto anterior
+    
     -Posteriormente es necesario ingresar a la carpeta generada en el punto anterior
+    
     -Una vez dentro de la carpeta es necesario dar click en el botón "Upload Files" para subir el/los archivos generados para solucionar el reto (Puede ser un archivo zip con todos los archivos generados)
-    -Una vez seleccionados los archivos, solamente es necesario dar click en el botón "Commit Changes" para subir los archivos.
+    
+    -Una vez seleccionados los archivos, solamente es necesario dar click en el botón "Commit Changes" para subir los archivos
